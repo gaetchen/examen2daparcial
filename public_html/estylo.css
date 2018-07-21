@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20 juil. 2018, 11:45:03
+    Author     : gaetchen
+*/ul li{
+    list-style-type: none;
+    display: inline;
+    font-size: 20px;
+    background: red;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+   font-family: bwoadwaye;
+   
+}
+#cabeza{
+    font-size: 24px;
+    font-family: bwoadwaye ;
+    color: red;
+    text-align: center;
+        
+}
+
+#menu{
+    text-align: center;
+    
+}
+
+
+#img{
+    border-radius: 2px;
+}        
+
+#cuerpo{
+    text-align: center;
+    font-family: alegria;
+    font-size: 16px;
+}  
+    
+    
+
+#pie{
+    text-align: center;
+    background: red;
+     font-weight: bold;
+}
+
+form{
+    width:700px;
+    margin: 0 auto;
+    border: 2px solid buttonface;
+    border-radius: 10px;
+    padding: 5px;
+}
